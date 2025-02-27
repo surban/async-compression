@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0), 
 
 ## Unreleased
 
+## [0.5.0](https://github.com/surban/async-compression/compare/v0.4.18...v0.5.0) - 2025-02-27
+
+### Other
+
+- Fix zlib feature
+- add wasm32-wasip1-threads target (build only)
+- Use cargo resolver 2
+- Replace xz2 dependency by liblzma
+- *(deps)* update bzip2 requirement from 0.4.4 to 0.5.0
+
 ## [0.4.18](https://github.com/Nullus157/async-compression/compare/v0.4.17...v0.4.18) - 2024-11-23
 
 ### Fixed
